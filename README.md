@@ -1,4 +1,4 @@
-# express-gateway-plugin-influx
+# express-gateway-plugin-statsd
 A simple Statsd Client plugin for Express Gateway.
 
 ## Installation
